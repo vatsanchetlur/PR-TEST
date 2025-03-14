@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: rgb(212, 243, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
